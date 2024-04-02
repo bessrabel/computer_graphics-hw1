@@ -6,12 +6,12 @@
 ### Prerequisites
 #### 1. Visual Studio Code & Extensions
 Visual Studio Code 설치 및 아래의 2개 확장 설치 필요
-1. C/C++ (Microsoft)
++ C/C++ (Microsoft)
 
 ![C/C++](https://github.com/bessrabel/computer_graphics-hw1/blob/main/readmePng/c%2B%2B.PNG)
 
 
-2. C/C++ Extension Pack
++ C/C++ Extension Pack
 
 ![C/C++ Extension Pack](https://github.com/bessrabel/computer_graphics-hw1/blob/main/readmePng/c%2B%2B_extension.PNG)
 
@@ -23,19 +23,13 @@ Using GCC with MinGW
 ---
 
 ### Directory Layout
->.vscode
-
-> builds
-
-> include
-
-> lib
-
-> src
-
-> readmePng
-
-> screenshot
+> + .vscode
+> + builds
+> + include
+> + lib
+> + src
+> + readmePng
+> + screenshot
 
 #### .vscode
 visual studio code 프로젝트 설정 파일들 폴더
@@ -89,7 +83,7 @@ README.md 파일 이미지 첨부를 위한 폴더
 > 1. Prerequisites를 참고해 요구사항 완료 
 > 2. 프로젝트 클론하여 visual studio code workspace로 이동
 > 3. 각 Ray Intersection.cpp, Shading.cpp, Antialiasing.cpp 파일을 빌드
->    + 이때 .vscode 폴더 > tasks.json을 실행시키고 싶은 파일로 바꿔 빌드 가능
+>    + 이때 .vscode 폴더 > tasks.json을 실행시키고 싶은 파일로 바꿔 빌드 가능(아래 task.json 그림 참조)
 
 #### Ray Intersection
 + task.json
@@ -100,7 +94,7 @@ README.md 파일 이미지 첨부를 위한 폴더
 
 ![RayIntersection](https://github.com/bessrabel/computer_graphics-hw1/blob/main/readmePng/Ray%20Intersection.PNG)
 
-#### Shading Intersection
+#### Shading
 + task.json
 
 ![task_json_Shading](https://github.com/bessrabel/computer_graphics-hw1/blob/main/readmePng/tasks_json_Shading.PNG)
