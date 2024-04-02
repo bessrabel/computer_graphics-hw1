@@ -1,4 +1,5 @@
 # computer_graphics-hw1
+<<<<<<< HEAD
 ---
 ## CGIP_hw1
 ---
@@ -81,3 +82,6 @@ task.json
 result
 
 
+=======
+hw1
+>>>>>>> af1e145e4fb35ff2e0df40503f2492e4709c0239
