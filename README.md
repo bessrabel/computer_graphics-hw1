@@ -1,4 +1,8 @@
 # computer_graphics-hw1
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 5d75daa1c1621e5aebc482f5837c50b15ee40eda
 ---
 ## CGIP_hw1
 ---
@@ -106,3 +110,10 @@ README.md 파일 이미지 첨부를 위한 폴더
 + result
 ![Antialiasing](https://github.com/bessrabel/computer_graphics-hw1/blob/main/readmePng/Antialiasing.png)
 
+<<<<<<< HEAD
+=======
+
+=======
+hw1
+>>>>>>> af1e145e4fb35ff2e0df40503f2492e4709c0239
+>>>>>>> 5d75daa1c1621e5aebc482f5837c50b15ee40eda
